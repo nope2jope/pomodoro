@@ -1,0 +1,2 @@
+# pomodoro
+obligatory pomodoro counter
